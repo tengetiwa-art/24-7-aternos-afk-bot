@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "solocloud.host",
-    "port": 25565,
-    "version": "1.20.1",
+    "ip": "Freinds10.aternos.me",
+    "port": 17759,
+    "version": "26.1.2",
     "try-creative": false
   },
   "position": {
@@ -31,9 +31,8 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to SoloPlayz!",
-        "Want Cheap Premium MC Server? https://discord.gg/VRMUnDkf95"
+        "I am a bot dont care about me",
+        "No Need to see this shit",
       ]
     },
     "chat-log": true,
